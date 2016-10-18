@@ -51,6 +51,26 @@ Li {
   margin-bottom: 5px;
 }
 
+ol {
+  font-family: sans-serif;
+  color: #293ab6;
+}
+
+a {
+  color: #293ab6;
+}
+
+.c {
+  font-family: sans-serif;
+  font-size: 15px;
+  margin-bottom: 20px;
+  word-spacing: 2px;
+  line-height: 22px;
+  border-style: solid;
+  border-width:.65px;
+  border-color: grey;
+}
+
 
 @media(max-width:414px)
 {
