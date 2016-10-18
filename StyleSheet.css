@@ -10,8 +10,9 @@ h1 {
 }
 
 h6 {
-  font-size: 10px;
-  font-weight: lighter;
+  font-size: 13px;
+  font-weight:normal;
+  font-family: sans-serif;
 }
 
 .abc {
